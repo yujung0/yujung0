@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Static Badge](https://img.shields.io/badge/!%5BJava%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FJava-red%3Fstyle%3Dplastic%26logo%3Djava))
+![Java](https://img.shields.io/badge/Java-red?style=plastic&logo=java)
+
 
 
 <!--
