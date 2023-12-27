@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Java](https://img.shields.io/badge/Java-red?style=plastic&logo=java)
+![Java](https://img.shields.io/badge/Java-red?style=plat&logo=java)
 
 
 
