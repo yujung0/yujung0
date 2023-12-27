@@ -1,6 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
-![Java](https://img.shields.io/badge/Java-red?style=plat&logo=java)
+<!-- ![Java](https://img.shields.io/badge/Java-red?style=plat&logo=java) -->
 
 <br/>
 
@@ -15,13 +15,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-e75253?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
-</a>&nbsp
-</a>&nbsp 
-  <br>
   <img src="https://img.shields.io/badge/Spring-6D8B33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp 
-  &nbsp
-  
-  <br>
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 </p>
 
@@ -31,7 +25,7 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   </a>&nbsp 
 <!--  <img src="https://img.shields.io/badge/jquery-grey?style=flat-square&logo=jquery&logoColor=white"/></a>&nbsp -->
-  </a>&nbsp 
+
   <br>
 </a>&nbsp 
 </p>
