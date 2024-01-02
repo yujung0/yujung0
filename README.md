@@ -2,13 +2,15 @@
 
 <!-- ![Java](https://img.shields.io/badge/Java-red?style=plat&logo=java) -->
 
-<br/>
+<h1 align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+</h1>
+
 
 <h3 align="center"> 
-<a target="_blank" href="https://kyeongsun.com/"> PORTFOLIO </a> 
+<a target="_blank" href="https://jangyujung.notion.site/f459d87575284652987418dca2ed751f?pvs=4"> PORTFOLIO </a> 
 </h3>
-  
-<br/>
+
 
 <h4 align="center"> BACKEND </h4>
  
@@ -59,7 +61,9 @@
 
 <br/><br/>
 
-
+<h1 align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+</h1>
 
 <!--
 **yujung0/yujung0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
