@@ -3,7 +3,7 @@
 <!-- ![Java](https://img.shields.io/badge/Java-red?style=plat&logo=java) -->
 
 <h1 align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B700E8FF&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A8E882FF&height=150&section=header" />
 </h1>
 
 
@@ -62,7 +62,7 @@
 
 
 <h1 align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B700E8FF&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A8E882FF&height=150&section=footer" />
 </h1>
 
 
