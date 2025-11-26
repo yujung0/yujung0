@@ -58,14 +58,12 @@
 
 
 
-
 <h1 align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A8E882FF&height=150&section=footer" />
 </h1>
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujung0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yujung0/yujung0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
